@@ -94,3 +94,5 @@ hack/formal/*/states/
 # its view module, so `hack/formal/check.sh all --chart` reproduces it byte for
 # byte; the rest of out/ (report, tlc.out) stays regenerated.
 !hack/formal/*/out/chart.mmd
+
+/zzx/
